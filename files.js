@@ -66,10 +66,3 @@ var jsCommentPages = function(){
   	$("document").ready(init);
   	
 }();
-/*<![CDATA[*/
-$(document).ready(function(){ 
-$('a[name="ma3lomat"]').before($('#ar1web-ma3lomat').html()); 
-$('#ar1web-ma3lomat').html(''); 
-}); 
-
-/*]]>*/
